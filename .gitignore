@@ -1,0 +1,7 @@
+graph.gpickle
+gnn_weights.pth
+lib
+*.html
+__pycache__
+.venv
+/data/nodes_updated.csv
